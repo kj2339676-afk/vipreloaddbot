@@ -1,0 +1,8 @@
+{
+  "name": "vipreloaddbot",
+  "version": "2.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": { "set-webhook": "node scripts/set-webhook.js" },
+  "dependencies": { "node-appwrite": "^14.0.0" }
+}
